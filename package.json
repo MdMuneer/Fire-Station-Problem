@@ -1,0 +1,14 @@
+{
+  "name": "production-project",
+  "version": "1.0.0",
+  "description": "A production-ready project for call dispatching",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "node src/main.js"
+  },
+  "type": "module",
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+  }
+}
